@@ -6,7 +6,10 @@ This is a plugin that adds "multilanguage" support to RenPy but in a really hack
 P.S. Looking for a simple VN engine with multilanguage support built in? Check out RepliCant!
 
 ## Usage
-add "tl" command before text, like this
+
+Add 01_init_custom_func.rpy to your renpy game.
+
+Then add "tl" command before text, like this
 
 No speaker example: `tl None "Hello world!" "Spanish goes here" "Japanese goes here"`
 
